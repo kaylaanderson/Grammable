@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Grammable
 
-Things you may want to cover:
+## Introduction
 
-* Ruby version
+> An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.
 
-* System dependencies
+## Technologies
 
-* Configuration
+> * Ruby on Rails framework
+> * HTML
+> * CSS
+> * Bootstrap
 
-* Database creation
+## Deployment
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> https://grammable-kayla-anderson.herokuapp.com/
